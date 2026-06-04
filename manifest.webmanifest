@@ -1,0 +1,33 @@
+{
+  "name": "Bronx to 180",
+  "short_name": "Bronx 180",
+  "description": "Personal fitness tracker — weight, workouts, and daily habits on the road from 228.6 to 180 lbs.",
+  "id": "/bronx-to-180/",
+  "start_url": "/bronx-to-180/",
+  "scope": "/bronx-to-180/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F1117",
+  "theme_color": "#0F1117",
+  "categories": ["health", "fitness", "lifestyle"],
+  "icons": [
+    {
+      "src": "/bronx-to-180/pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bronx-to-180/pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bronx-to-180/pwa-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
