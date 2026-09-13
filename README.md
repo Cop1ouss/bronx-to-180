@@ -1,5 +1,8 @@
 # Bronx to 180 🏋️
 
+![category](https://img.shields.io/badge/category-Personal-ec4899)
+![status](https://img.shields.io/badge/status-active-34d399)
+
 A personal, mobile-first fitness tracker for one goal: get from **228.6 lbs → 180 lbs** by **November 21, 2026**.
 
 Track your weight, log workouts, and check off daily habits — all stored locally in your browser. No backend, no accounts, no API.
