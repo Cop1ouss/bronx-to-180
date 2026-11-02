@@ -7,6 +7,9 @@
   <a href="https://cop1ouss.github.io/bronx-to-180/"><img alt="Open the app" src="https://img.shields.io/badge/%E2%96%B6%20open%20the%20app-live%20on%20GitHub%20Pages-a6e3a1?style=for-the-badge&labelColor=1e1e2e"></a>
 </p>
 <p align="center">
+  <a href="https://github.com/Cop1ouss/bronx-to-180/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Cop1ouss/bronx-to-180/ci.yml?style=flat-square&label=CI&labelColor=1e1e2e&color=a6e3a1"></a>
+  <a href="https://github.com/Cop1ouss/bronx-to-180/actions/workflows/codeql.yml"><img alt="CodeQL" src="https://img.shields.io/github/actions/workflow/status/Cop1ouss/bronx-to-180/codeql.yml?style=flat-square&label=CodeQL&labelColor=1e1e2e&color=89b4fa"></a>
+  <a href="SECURITY.md"><img alt="Security policy" src="https://img.shields.io/badge/security-policy-f38ba8?style=flat-square&labelColor=1e1e2e"></a>
   <img alt="React: 19" src="https://img.shields.io/badge/React-19-89dceb?style=flat-square&labelColor=1e1e2e">
   <img alt="Vite: build" src="https://img.shields.io/badge/Vite-build-cba6f7?style=flat-square&labelColor=1e1e2e">
   <img alt="data: local only" src="https://img.shields.io/badge/data-local%20only-a6e3a1?style=flat-square&labelColor=1e1e2e">
@@ -63,6 +66,16 @@ This builds the app and publishes the `dist/` folder to the `gh-pages` branch. Y
 ## Customizing
 
 Your goal, dates, habits, workout types, and milestones all live in [`src/utils/constants.js`](src/utils/constants.js). Seed data lives in [`src/utils/defaults.js`](src/utils/defaults.js).
+
+
+## Project docs
+
+| | |
+| --- | --- |
+| 📋 [PRD](docs/PRD.md) | The problem, the goal, scope and the finish line |
+| 🛡️ [Security policy](SECURITY.md) | How to report a vulnerability privately |
+| ⚖️ [License](LICENSE) | MIT |
+| 🧪 [CI](.github/workflows/ci.yml) | What runs on every pull request |
 
 ---
 

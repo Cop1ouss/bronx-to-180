@@ -18,7 +18,6 @@ import {
   getHabitColor,
   todayISO,
   toISODate,
-  parseDate,
 } from '../utils/calculations'
 
 const COLOR_MAP = {
