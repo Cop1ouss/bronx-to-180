@@ -1,7 +1,24 @@
-# Bronx to 180 🏋️
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/readme/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset=".github/readme/banner-light.svg">
+  <img alt="bronx-to-180" src=".github/readme/banner-dark.svg" width="100%">
+</picture>
 
-![category](https://img.shields.io/badge/category-Personal-ec4899)
-![status](https://img.shields.io/badge/status-active-34d399)
+<p align="center">
+  <a href="https://cop1ouss.github.io/bronx-to-180/"><img alt="Open the app →" src="https://img.shields.io/badge/Open%20the%20app%20%E2%86%92-a6e3a1?style=for-the-badge&labelColor=1e1e2e"></a>
+</p>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-1e1e2e?style=flat-square&logo=react&logoColor=89dceb">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-1e1e2e?style=flat-square&logo=vite&logoColor=cba6f7">
+  <img alt="Recharts" src="https://img.shields.io/badge/Recharts-1e1e2e?style=flat-square&labelColor=a6e3a1">
+  <img alt="PWA" src="https://img.shields.io/badge/PWA-1e1e2e?style=flat-square&logo=pwa&logoColor=f9e2af">
+</p>
+
+<p align="center">
+  <img alt="Desktop view" src=".github/readme/screenshot-desktop.png" width="74%">
+  &nbsp;
+  <img alt="Phone view" src=".github/readme/screenshot-phone.png" width="21%">
+</p>
 
 A personal, mobile-first fitness tracker for one goal: get from **228.6 lbs → 180 lbs** by **November 21, 2026**.
 
@@ -48,3 +65,7 @@ This builds the app and publishes the `dist/` folder to the `gh-pages` branch. Y
 ## Customizing
 
 Your goal, dates, habits, workout types, and milestones all live in [`src/utils/constants.js`](src/utils/constants.js). Seed data lives in [`src/utils/defaults.js`](src/utils/defaults.js).
+
+---
+
+<p align="center"><sub>Part of <a href="https://github.com/Cop1ouss">Uncook</a> · built off systems · © 2026 Dajoni Gomez</sub></p>
